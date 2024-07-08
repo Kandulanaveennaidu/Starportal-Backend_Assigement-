@@ -27,7 +27,7 @@ Installation
 Clone the repo
 sh
 Copy code
-git clone https://github.com/your_username/your_repository.git
+[git clone https://github.com/your_username/your_repository.git](https://github.com/Kandulanaveennaidu/Starportal-Backend_Assigement-)
 Install NPM packages
 sh
 Copy code
